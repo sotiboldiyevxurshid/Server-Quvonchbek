@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "name": "Quvonchbek",
+      "comment": "salom hammaga",
+      "id": 1
+    },
+    {
+      "name": "Aziz",
+      "comment": "salom qaleslar",
+      "id": 2
+    }
+  ]
+}
